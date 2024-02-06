@@ -2,8 +2,6 @@
 
 A full stack blog implementation with Docker.
 
-PS: I will later work on this project.
-
 ## Students
 
 - Roman Vovk 46046
